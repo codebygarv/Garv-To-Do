@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Garv-To-Do/static/css/main.7b490587.css",
+    "main.js": "/Garv-To-Do/static/js/main.e000f577.js",
+    "static/media/date.svg": "/Garv-To-Do/static/media/date.a95ebe6e89803e2f48884bc7cd347bc0.svg",
+    "static/media/trash.svg": "/Garv-To-Do/static/media/trash.65329eb4d02d742fbbb673d423203636.svg",
+    "index.html": "/Garv-To-Do/index.html",
+    "static/media/options.svg": "/Garv-To-Do/static/media/options.b23e257ac213477f9bf22b28d1837460.svg",
+    "static/media/menu.svg": "/Garv-To-Do/static/media/menu.31f722ed2e31fffe79f65e40ce2c6453.svg",
+    "static/media/x.svg": "/Garv-To-Do/static/media/x.c8494eb2642084db18174e0aac7bfcf6.svg",
+    "main.7b490587.css.map": "/Garv-To-Do/static/css/main.7b490587.css.map",
+    "main.e000f577.js.map": "/Garv-To-Do/static/js/main.e000f577.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b490587.css",
+    "static/js/main.e000f577.js"
+  ]
+}
